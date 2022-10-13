@@ -1,6 +1,6 @@
 # Business-Analytics
 
-고려대학교 산업경영공학과 2022-2 Business-Analytics 강필성 교수님 Python Tutorial
+고려대학교 산업경영공학과 2022-2 Business-Analytics 강필성 교수님 수업 Python Tutorial
 
 ### 1. Dimensionality Reduction
 
@@ -20,3 +20,13 @@
 
 활용 데이터 - Energy Efficiency dataset
 https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
+
+X1 : Relative Compactness
+X2 : Surface Area
+X3 : Wall Area
+X4 : Roof Area
+X5 : Overall Height
+X6 : Orientation
+X7 : Glazing Area
+X8 : Glazing Area Distribution
+Y1 : Heating Load
