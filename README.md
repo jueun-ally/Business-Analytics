@@ -21,7 +21,7 @@
 활용 데이터 - Energy Efficiency dataset
 https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
 
-X1 : Relative Compactness
+X1 : Relative Compactness  
 X2 : Surface Area
 X3 : Wall Area
 X4 : Roof Area
