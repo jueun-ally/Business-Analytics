@@ -1,12 +1,6 @@
 # Business-Analytics
 
-
-
-
-
 고려대학교 산업경영공학과 2022-2 Business-Analytics 강필성 교수님 Python Tutorial
-
-
 
 ### 1. Dimensionality Reduction
 
@@ -23,3 +17,6 @@
 4. 부모 염색체 선택
 5. 자식 염색체 생성
 6. 최적 변수 집합 선택
+
+활용 데이터 - Energy Efficiency dataset
+https://archive.ics.uci.edu/ml/datasets/Energy+efficiency
