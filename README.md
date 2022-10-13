@@ -30,3 +30,5 @@ X6 : Orientation
 X7 : Glazing Area  
 X8 : Glazing Area Distribution  
 Y1 : Heating Load  
+
+자세한 내용은 'BA_t1_GA.ipynb' 파일을 참고하세요.
